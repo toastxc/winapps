@@ -1,0 +1,14 @@
+# GNOME shortcut name
+NAME="WinSCP"
+
+# Used for descriptions and window class
+FULL_NAME="WinSCP"
+
+# The executable inside windows
+WIN_EXECUTABLE="C:\Program Files (x86)\WinSCP\WinSCP.exe"
+
+# GNOME categories
+CATEGORIES="WinApps;Virtualisation"
+
+# GNOME mimetypes
+MIME_TYPES="image/vnd.vmware.workstation;"

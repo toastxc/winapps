@@ -1,0 +1,14 @@
+# GNOME shortcut name
+NAME="Workstation Network"
+
+# Used for descriptions and window class
+FULL_NAME="VMWare Workstation Pro Network Editor"
+
+# The executable inside windows
+WIN_EXECUTABLE="C:\Program Files (x86)\VMware\VMware Workstation\vmnetcfg.exe"
+
+# GNOME categories
+CATEGORIES="WinApps;Virtualisation"
+
+# GNOME mimetypes
+MIME_TYPES="image/vnd.vmware.workstationnetwork;"
